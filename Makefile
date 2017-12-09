@@ -1,6 +1,6 @@
-all: hello-cpp-world hello-c-world
+all: main test
 
-%: %.cc
+%: %.cpp
 	g++ -std=c++11 $< -o $@
 
 %: %.c

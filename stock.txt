@@ -1,0 +1,8 @@
+NAME                     CATEGORY                 ID                       AMOUNT                   PRICE                    
+
+sausage                  Meat                     1237458600               24                       48                       
+cheese+burger            Takeaway                 1480338690               200                      8                        
+mexican+pizza            Takeaway                 -1041626879              30                       26                       
+potato                   Vegetables               1681524070               120                      12                       
+tomato                   Vegetables               556671901                40                       4                        
+oz+powder                Washing                  2010220083               11                       60                       

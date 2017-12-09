@@ -2,5 +2,6 @@
 
 Person::Person()
 {
-
+    name = " " ;
+    address = " " ;
 }
